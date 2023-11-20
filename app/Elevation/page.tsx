@@ -27,7 +27,7 @@ const nacelle: TolTipProps[] | [] = [
   },
   {
     url: "/assets/nacelleIcons/NacelleTelescopic.png",
-    description: "Nacelle telescopiques",
+    description: "Nacelle Telescopiques",
   },
   {
     url: "/assets/nacelleIcons/MatVertical.png",
