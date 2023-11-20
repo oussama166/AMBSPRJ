@@ -1,0 +1,2032 @@
+{
+  "Batteries,Chargers": {
+    "Batteries": [
+      {
+        "id": "BatteryId1",
+        "type": "US Battery",
+        "Info": [
+          "ELPT terminal",
+          "Batterie cyclique 6V",
+          "115min 75A",
+          "445min 25A"
+        ],
+        "Designation": "Utilisé pour les ciseaux électriques: Genie GS1930, Skyjack SJ 3219, JLG 1930ES",
+        "Img": ["/Battery/UsBattery.png"]
+      },
+      {
+        "id": "BatteryId2",
+        "type": "US Battery",
+        "Info": [
+          "EUT terminal",
+          "Batterie cyclique 6V",
+          "195min 75A",
+          "715min 25A"
+        ],
+        "Designation": "Utilisé pour les nacelles élévatrices électriques: Genie Z34-22N, Haulotte Compact 10, Compact 12",
+        "Img": ["/Battery/UsBatteryEUT.png"]
+      },
+      {
+        "id": "BatteryId3",
+        "type": "US Battery",
+        "Info": [
+          "EUT terminal",
+          "Batterie cyclique 6V",
+          "225min 75A",
+          "865min 25A"
+        ],
+        "Designation": "Utilisé pour les nacelles articulées électriques: Genie Z30-20N, JLG E600AJP",
+        "Img": ["/Battery/UsBatteryEUT.png"]
+      },
+      {
+        "id": "BatteryId4",
+        "type": "Multi",
+        "Info": ["Batterie de démarrage", "75Ah ... 180Ah"],
+        "Designation": "Utilisé pour différents types de nacelles élévatrices",
+        "Img": ["/Battery/StarterBattery.png"]
+      },
+      {
+        "id": "BatteryId5",
+        "type": "Trojan",
+        "Info": [
+          "ELPT terminal",
+          "Batterie cyclique 6V",
+          "115min 75A",
+          "447min 25A"
+        ],
+        "Designation": "Utilisé pour les ciseaux électriques: Genie GS1930, Skyjack SJ 3219, JLG 1930ES",
+        "Img": ["/Battery/trojanELPT.png"]
+      },
+      {
+        "id": "BatteryId6",
+        "type": "Trojan",
+        "Info": [
+          "EUT terminal",
+          "Batterie cyclique 6V",
+          "175min 75A",
+          "678min 25A"
+        ],
+        "Designation": "Utilisé pour les nacelles élévatrices électriques: Genie Z34-22N, Haulotte Compact 10, Compact 12",
+        "Img": ["/Battery/trojanEUT.png"]
+      },
+      {
+        "id": "BatteryId7",
+        "type": "Trojan",
+        "Info": [
+          "EUT terminal",
+          "Batterie cyclique 6V",
+          "200min 75A",
+          "789min 25A"
+        ],
+        "Designation": "Utilisé pour les nacelles articulées électriques: Genie Z30-20N, JLG E600AJP",
+        "Img": ["/Battery/trojanEUT.png"]
+      },
+      {
+        "id": "BatteryId8",
+        "type": "Multi",
+        "Info": ["Batterie de traction", "DIN, 120Ah ... 1550Ah"],
+        "Designation": "Utilisé pour différents types de nacelles élévatrices",
+        "Img": ["/Battery/TractionBatteries.png"]
+      }
+    ],
+    "Indicateur de batterie": [
+      {
+        "id": "BatteryIndicatorId1",
+        "type": "Genie",
+        "Info": ["Indicateur de batterie", "12-72V"],
+        "Designation": "Used for Z30-20N, Z34-22DC, Z45-25JDC",
+        "Img": [
+          "/Battery_Indicator/BatteryIndicator1.png",
+          "/Battery_Indicator/BatteryIndicator1-2.png"
+        ]
+      },
+      {
+        "id": "BatteryIndicatorId2",
+        "type": "Genie",
+        "Info": ["Indicateur de batterie", "48V"],
+        "Designation": "Used for Z30-20N, Z34-22N, Z45-25JDC",
+        "Img": ["/Battery_Indicator/BatteryIndicator2.png"]
+      },
+      {
+        "id": "BatteryIndicatorId3",
+        "type": "Genie",
+        "Info": ["Indicateur de batterie", "12V"],
+        "Designation": "Used for Z34-22RT, Z60-34RT, S45, S65, ...",
+        "Img": ["/Battery_Indicator/BatteryIndicator3.png"]
+      },
+      {
+        "id": "BatteryIndicatorId4",
+        "type": "JLG",
+        "Info": ["Indicateur de batterie", "12-72V"],
+        "Designation": "Used for E40AJP, E45A, E450AJ, E600JP",
+        "Img": [
+          "/Battery_Indicator/BatteryIndicator4.png",
+          "/Battery_Indicator/BatteryIndicator4-2.png"
+        ]
+      },
+      {
+        "id": "BatteryIndicatorId5",
+        "type": "Haulotte",
+        "Info": ["Indicateur de batterie", "12-72V"],
+        "Designation": "Used for H15SDX, H18SDX, HA16SPX, HA18SPX, ...",
+        "Img": [
+          "/Battery_Indicator/BatteryIndicator5.png",
+          "/Battery_Indicator/BatteryIndicator5-2.png"
+        ]
+      },
+      {
+        "id": "BatteryIndicatorId6",
+        "type": "Haulotte",
+        "Info": ["Indicateur de batterie"],
+        "Designation": "Used for HA-2440319260 (48V)",
+        "Img": ["/Battery_Indicator/BatteryIndicator6.png"]
+      },
+      {
+        "id": "BatteryIndicatorId7",
+        "type": "Haulotte",
+        "Info": ["Indicateur de batterie"],
+        "Designation": "Used for HA-2901009770 - BC-24V35A70 (24V)",
+        "Img": ["/Battery_Indicator/BatteryIndicator7.png"]
+      },
+      {
+        "id": "BatteryIndicatorId8",
+        "type": "Haulotte",
+        "Info": ["Indicateur de batterie"],
+        "Designation": "Used for Optimum 8, Compact 10, STAR 10, ...",
+        "Img": ["/Battery_Indicator/BatteryIndicator8.png"]
+      },
+      {
+        "id": "BatteryIndicatorId9",
+        "type": "Skyjack",
+        "Info": ["Indicateur de batterie"],
+        "Designation": "Used for SJ3219, SJIII4626, SJIII4632, ...",
+        "Img": ["/Battery_Indicator/BatteryIndicator9.png"]
+      }
+    ],
+    "Accessoires de batterie (chargeur)": [
+      {
+        "id": "BatteryChargerAccessoriesId1",
+        "type": "Genie",
+        "Info": ["Câble de charge de batterie"],
+        "Designation": "Utilisé avec GE-105739, ...",
+        "Img": [
+          "/Battery(charger)_accessories/BatteryChargerAccessories1.png",
+          "/Battery(charger)_accessories/BatteryChargerAccessories1-2.png"
+        ]
+      },
+      {
+        "id": "BatteryChargerAccessoriesId2",
+        "type": "Genie",
+        "Info": ["Câble de charge de batterie"],
+        "Designation": "Utilisé avec GE-128375, ...",
+        "Img": [
+          "/Battery(charger)_accessories/BatteryChargerAccessories2.png",
+          "/Battery(charger)_accessories/BatteryChargerAccessories2-2.png"
+        ]
+      },
+      {
+        "id": "BatteryChargerAccessoriesId3",
+        "type": "Haulotte",
+        "Info": ["Câble de charge de batterie"],
+        "Designation": "Utilisé avec HA-2901009770, ...",
+        "Img": [
+          "/Battery(charger)_accessories/BatteryChargerAccessories3.png",
+          "/Battery(charger)_accessories/BatteryChargerAccessories3-2.png"
+        ]
+      },
+      {
+        "id": "BatteryChargerAccessoriesId4",
+        "type": "JLG",
+        "Info": ["Câble de charge de batterie"],
+        "Designation": "Utilisé avec JL-1001128737, ...",
+        "Img": [
+          "/Battery(charger)_accessories/BatteryChargerAccessories4.png",
+          "/Battery(charger)_accessories/BatteryChargerAccessories4-2.png"
+        ]
+      },
+      {
+        "id": "BatteryChargerAccessoriesId5",
+        "type": "JLG",
+        "Info": ["Câble de charge de batterie"],
+        "Designation": "Utilisé avec JL-1001123046S, ...",
+        "Img": [
+          "/Battery(charger)_accessories/BatteryChargerAccessories5.png",
+          "/Battery(charger)_accessories/BatteryChargerAccessories5-2.png"
+        ]
+      },
+      {
+        "id": "BatteryChargerAccessoriesId6",
+        "type": "Skyjack",
+        "Info": ["Câble de charge de batterie"],
+        "Designation": "Utilisé avec SJ-152070",
+        "Img": [
+          "/Battery(charger)_accessories/BatteryChargerAccessories6.png",
+          "/Battery(charger)_accessories/BatteryChargerAccessories6-2.png"
+        ]
+      },
+      {
+        "id": "BatteryChargerAccessoriesId7",
+        "type": "",
+        "Info": ["Câble de charge de batterie", "30cm"],
+        "Designation": "Connecteur Ø 10mm",
+        "Img": ["/Battery(charger)_accessories/BatteryChargerAccessories7.png"]
+      },
+      {
+        "id": "BatteryChargerAccessoriesId8",
+        "type": "",
+        "Info": ["Câble de charge de batterie", "37cm"],
+        "Designation": "Connecteur Ø 20mm",
+        "Img": ["/Battery(charger)_accessories/BatteryChargerAccessories8.png"]
+      },
+      {
+        "id": "BatteryChargerAccessoriesId9",
+        "type": "",
+        "Info": [
+          "Capuchon de serrage de borne de batterie positif",
+          "universel"
+        ],
+        "Designation": "",
+        "Img": ["/Battery(charger)_accessories/BatteryChargerAccessories9.png"]
+      },
+      {
+        "id": "BatteryChargerAccessoriesId10",
+        "type": "",
+        "Info": [
+          "Capuchon de serrage de borne de batterie négatif",
+          "universel"
+        ],
+        "Designation": "",
+        "Img": ["/Battery(charger)_accessories/BatteryChargerAccessories10.png"]
+      },
+      {
+        "id": "BatteryChargerAccessoriesId11",
+        "type": "",
+        "Info": ["Connecteur Anderson", "175A"],
+        "Designation": "",
+        "Img": ["/Battery(charger)_accessories/BatteryChargerAccessories11.png"]
+      },
+      {
+        "id": "BatteryChargerAccessoriesId12",
+        "type": "",
+        "Info": ["Connecteur Anderson", "350A"],
+        "Designation": "",
+        "Img": ["/Battery(charger)_accessories/BatteryChargerAccessories12.png"]
+      },
+      {
+        "id": "BatteryChargerAccessoriesId13",
+        "type": "",
+        "Info": ["Serrage de borne de batterie positif", "universel"],
+        "Designation": "",
+        "Img": ["/Battery(charger)_accessories/BatteryChargerAccessories13.png"]
+      },
+      {
+        "id": "BatteryChargerAccessoriesId14",
+        "type": "",
+        "Info": ["Serrage de borne de batterie négatif", "universel"],
+        "Designation": "",
+        "Img": ["/Battery(charger)_accessories/BatteryChargerAccessories14.png"]
+      },
+      {
+        "id": "BatteryChargerAccessoriesId15",
+        "type": "",
+        "Info": [
+          "Système de remplissage d'eau pour batteries 24V",
+          "Monobloc de base"
+        ],
+        "Designation": "Valve Ø 39.5mm. Utilisé avec T105, US305, L16,...",
+        "Img": ["/Battery(charger)_accessories/BatteryChargerAccessories15.png"]
+      },
+      {
+        "id": "BatteryChargerAccessoriesId16",
+        "type": "",
+        "Info": [
+          "Système de remplissage d'eau pour batteries 48V",
+          "Monobloc de base"
+        ],
+        "Designation": "Valve Ø 39.5mm. Utilisé avec T105, US305, L16",
+        "Img": ["/Battery(charger)_accessories/BatteryChargerAccessories16.png"]
+      },
+      {
+        "id": "BatteryChargerAccessoriesId17",
+        "type": "",
+        "Info": ["Chargeur de batterie, 48VCC, 380V, 80A"],
+        "Designation": "Utilisé pour chariots élévateurs (Toyota, Linde, ...)",
+        "Img": ["/Battery(charger)_accessories/BatteryChargerAccessories17.png"]
+      },
+      {
+        "id": "BatteryChargerAccessoriesId18",
+        "type": "",
+        "Info": ["Chargeur de batterie, 80VCC, 380V, 100A"],
+        "Designation": "Utilisé pour chariots élévateurs (Toyota, Linde, ...)",
+        "Img": ["/Battery(charger)_accessories/BatteryChargerAccessories18.png"]
+      }
+    ]
+  },
+  "Electrical components": {
+    "Prise de connecteur": [
+      {
+        "id": "ConnectorPlugId1",
+        "type": "JLG",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour 1932E, 2646E, 3369E, 40RTS, ...",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug1.png"]
+      },
+      {
+        "id": "ConnectorPlugId2",
+        "type": "JLG",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour 1932E, 2646E, 3369E, 40RTS, ...",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug2.png"]
+      },
+      {
+        "id": "ConnectorPlugId3",
+        "type": "JLG",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour 3369LE, M4069, 40RTS, 400CRT, ...",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug3.png"]
+      },
+      {
+        "id": "ConnectorPlugId4",
+        "type": "JLG",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour 1932E2, 2632E2, 25RTS, 330CRT, 500RTS, ...",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug4.png"]
+      },
+      {
+        "id": "ConnectorPlugId5",
+        "type": "JLG",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour 800AJ, 660SJC, 660SJ, ...",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug5.png"]
+      },
+      {
+        "id": "ConnectorPlugId6",
+        "type": "JLG",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour 800AJ, 660SJC, 660SJ, ...",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug6.png"]
+      },
+      {
+        "id": "ConnectorPlugId7",
+        "type": "JLG",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour 450AJ, 600AJ, 660SJ, ...",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug7.png"]
+      },
+      {
+        "id": "ConnectorPlugId8",
+        "type": "JLG",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour 450AJ, 600AJ, 660SJ, ...",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug8.png"]
+      },
+      {
+        "id": "ConnectorPlugId9",
+        "type": "JLG",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour E40AJPn, E45A, M45A, ...",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug9.png"]
+      },
+      {
+        "id": "ConnectorPlugId10",
+        "type": "JLG",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour 1930ES, 3246ES, E300AJP, M45A, E600J, ...",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug10.png"]
+      },
+      {
+        "id": "ConnectorPlugId11",
+        "type": "JLG",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour 740AJ, 800AJ, 660SJ, 1500SJ, ...",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug11.png"]
+      },
+      {
+        "id": "ConnectorPlugId12",
+        "type": "Haulotte",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour Compact 12DX (Deutz), HA16SPX, H25TPX, ... (37 voies)",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug12.png"]
+      },
+      {
+        "id": "ConnectorPlugId13",
+        "type": "Haulotte",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour Compact 10DX, Compact 12DX (Kubota)",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug13.png"]
+      },
+      {
+        "id": "ConnectorPlugId14",
+        "type": "Haulotte",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour séries Optimum, Compact (AMP, 16 voies)",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug14.png"]
+      },
+      {
+        "id": "ConnectorPlugId15",
+        "type": "Haulotte",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour séries Optimum, Compact (Deutsch, 14 voies)",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug15.png"]
+      },
+      {
+        "id": "ConnectorPlugId16",
+        "type": "Haulotte",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour Compact 12DX (Deutz), HA16SPX, H25TPX, ... (37 voies)",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug16.png"]
+      },
+      {
+        "id": "ConnectorPlugId17",
+        "type": "Haulotte",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour Compact 12DX (Deutz), HA16SPX, H25TPX, ... (37 voies)",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug17.png"]
+      },
+      {
+        "id": "ConnectorPlugId18",
+        "type": "Haulotte",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour séries Optimum, Compact (AMP, 16 voies)",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug18.png"]
+      },
+      {
+        "id": "ConnectorPlugId19",
+        "type": "Haulotte",
+        "Info": ["Connecteur femelle"],
+        "Designation": "Utilisé pour séries Optimum, Compact (AMP, 16 voies)",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug19.png"]
+      },
+      {
+        "id": "ConnectorPlugId20",
+        "type": "Haulotte",
+        "Info": ["Fiche de connecteur"],
+        "Designation": "Broche de connecteur mâle",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug20.png"]
+      },
+      {
+        "id": "ConnectorPlugId21",
+        "type": "Haulotte",
+        "Info": ["Fiche de connecteur"],
+        "Designation": "Broche de connecteur mâle",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug21.png"]
+      },
+      {
+        "id": "ConnectorPlugId22",
+        "type": "Haulotte",
+        "Info": ["Fiche de connecteur"],
+        "Designation": "Broche de connecteur mâle",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug22.png"]
+      },
+      {
+        "id": "ConnectorPlugId23",
+        "type": "Haulotte",
+        "Info": ["Fiche de connecteur"],
+        "Designation": "Douille de connecteur femelle",
+        "Img": ["/Electrical components/Connector plug/ConnectorPlug23.png"]
+      }
+    ],
+    "Bloc de contacts": [
+      {
+        "id": "ContactBlockId1",
+        "type": "Schneider",
+        "Info": ["Bloc de contact"],
+        "Designation": "Bloc de contact NF gén. 2",
+        "Img": [
+          "/Electrical components/Contact block/ContactBlock1.png",
+          "/Electrical components/Contact block/ContactBlock2.png"
+        ]
+      },
+      {
+        "id": "ContactBlockId2",
+        "type": "Schneider",
+        "Info": ["Bloc de contact"],
+        "Designation": "Bloc de contact NF gén. 2",
+        "Img": [
+          "/Electrical components/Contact block/ContactBlock3.png",
+          "/Electrical components/Contact block/ContactBlock4.png"
+        ]
+      },
+      {
+        "id": "ContactBlockId3",
+        "type": "Schneider",
+        "Info": ["Bloc de contact"],
+        "Designation": "Bloc de contact NF gén. 4-5",
+        "Img": [
+          "/Electrical components/Contact block/ContactBlock5.png",
+          "/Electrical components/Contact block/ContactBlock6.png"
+        ]
+      },
+      {
+        "id": "ContactBlockId4",
+        "type": "Schneider",
+        "Info": ["Bloc de contact"],
+        "Designation": "Bloc de contact NF gén. 4-5",
+        "Img": [
+          "/Electrical components/Contact block/ContactBlock7.png",
+          "/Electrical components/Contact block/ContactBlock8.png"
+        ]
+      },
+      {
+        "id": "ContactBlockId5",
+        "type": "Schneider",
+        "Info": ["Bloc de contact"],
+        "Designation": "Support de fixation de bloc de contact, métal gén. 2",
+        "Img": ["/Electrical components/Contact block/ContactBlock9.png"]
+      },
+      {
+        "id": "ContactBlockId6",
+        "type": "Schneider",
+        "Info": ["Bloc de contact"],
+        "Designation": "Support de fixation de bloc de contact, métal gén. 2",
+        "Img": ["/Electrical components/Contact block/ContactBlock10.png"]
+      },
+      {
+        "id": "ContactBlockId7",
+        "type": "Schneider",
+        "Info": ["Bloc de contact"],
+        "Designation": "Support de fixation de bloc de contact, plastique gén. 5",
+        "Img": ["/Electrical components/Contact block/ContactBlock11.png"]
+      }
+    ],
+    "Contacteur": [
+      {
+        "id": "ContactorId1",
+        "type": "Genie",
+        "Info": ["Contacteur 12V", "Contacteur"],
+        "Designation": "Utilisé pour ZX135-70RT, S125, SX135XC, ...",
+        "Img": ["/Electrical components/Contactor/Contactor1.png"]
+      },
+      {
+        "id": "ContactorId2",
+        "type": "Genie",
+        "Info": ["Contacteur 12V", "Contacteur"],
+        "Designation": "Utilisé pour Z45-25JRT, Z62-40RT, S65TRAX, ...",
+        "Img": ["/Electrical components/Contactor/Contactor2.png"]
+      },
+      {
+        "id": "ContactorId3",
+        "type": "Genie",
+        "Info": ["Contacteur 24V", "Contacteur"],
+        "Designation": "Utilisé pour Z30-20N, Z34-22N, Z45-25JDC, ...",
+        "Img": [
+          "/Electrical components/Contactor/Contactor3.png",
+          "/Electrical components/Contactor/Contactor4.png"
+        ]
+      },
+      {
+        "id": "ContactorId4",
+        "type": "Genie",
+        "Info": ["Contacteur 24V", "Contacteur"],
+        "Designation": "Utilisé pour GS1932, GS2646, GS4047, Z30-20N, Z34-22N, Z45-25JDC, ...",
+        "Img": [
+          "/Electrical components/Contactor/Contactor5.png",
+          "/Electrical components/Contactor/Contactor6.png"
+        ]
+      },
+      {
+        "id": "ContactorId5",
+        "type": "Genie",
+        "Info": ["Contacteur 24V", "Contacteur"],
+        "Designation": "Utilisé pour Z30-20N, Z34-22N, Z45-25JDC, ...",
+        "Img": [
+          "/Electrical components/Contactor/Contactor7.png",
+          "/Electrical components/Contactor/Contactor8.png"
+        ]
+      },
+      {
+        "id": "ContactorId6",
+        "type": "Genie",
+        "Info": ["Contacteur 24V", "Contacteur"],
+        "Designation": "Utilisé pour GS1932, GS3232, GS2646, GS4047, Z30-20N, Z34-22N, Z45-25JDC, ...",
+        "Img": [
+          "/Electrical components/Contactor/Contactor9.png",
+          "/Electrical components/Contactor/Contactor10.png"
+        ]
+      },
+      {
+        "id": "ContactorId7",
+        "type": "Genie",
+        "Info": ["Contacteur 24V", "Contacteur"],
+        "Designation": "Utilisé pour GS1932, GS3232, GS2646, GS4047, Z30-20N, Z34-22N, Z45-25JDC, ...",
+        "Img": [
+          "/Electrical components/Contactor/Contactor11.png",
+          "/Electrical components/Contactor/Contactor12.png"
+        ]
+      },
+      {
+        "id": "ContactorId8",
+        "type": "JLG",
+        "Info": ["Contacteur 12V", "Contacteur"],
+        "Designation": "Utilisé pour 80HX+6, 110SX, 120HX, ...",
+        "Img": [
+          "/Electrical components/Contactor/Contactor13.png",
+          "/Electrical components/Contactor/Contactor14.png"
+        ]
+      },
+      {
+        "id": "ContactorId9",
+        "type": "JLG",
+        "Info": ["Contacteur 24V", "Contacteur"],
+        "Designation": "Utilisé pour CM2033, CM2046, CM2558, ...",
+        "Img": [
+          "/Electrical components/Contactor/Contactor15.png",
+          "/Electrical components/Contactor/Contactor16.png"
+        ]
+      },
+      {
+        "id": "ContactorId10",
+        "type": "JLG",
+        "Info": ["Contacteur 24V", "Contacteur"],
+        "Designation": "Utilisé pour Toucan Duo, Juniors B.",
+        "Img": ["/Electrical components/Contactor/Contactor17.png"]
+      },
+      {
+        "id": "ContactorId11",
+        "type": "JLG",
+        "Info": ["Contacteur 24V", "Contacteur"],
+        "Designation": "Utilisé pour Toucan Duo, Juniors B.",
+        "Img": ["/Electrical components/Contactor/Contactor18.png"]
+      },
+      {
+        "id": "ContactorId12",
+        "type": "JLG",
+        "Info": ["Contacteur 48V", "Contacteur"],
+        "Designation": "Utilisé pour 3369E, 3969E, 45E, ...",
+        "Img": ["/Electrical components/Contactor/Contactor19.png"]
+      },
+      {
+        "id": "ContactorId13",
+        "type": "JLG",
+        "Info": ["Contacteur 48V", "Contacteur"],
+        "Designation": "Utilisé pour 3369E, 3969E, 45E, ...",
+        "Img": ["/Electrical components/Contactor/Contactor20.png"]
+      },
+      {
+        "id": "ContactorId14",
+        "type": "JLG",
+        "Info": ["Contacteur 48V", "Contacteur"],
+        "Designation": "Utilisé pour E40AJPn, E450, M450A, ...",
+        "Img": ["/Electrical components/Contactor/Contactor22.png"]
+      },
+      {
+        "id": "ContactorId15",
+        "type": "JLG",
+        "Info": ["Contacteur 48V", "Contacteur"],
+        "Designation": "Utilisé pour E40AJPn, M45AJ, E450, ...",
+        "Img": ["/Electrical components/Contactor/Contactor23.png"]
+      },
+      {
+        "id": "ContactorId16",
+        "type": "JLG",
+        "Info": ["Contacteur 48V", "Contacteur"],
+        "Designation": "Utilisé pour E300AJP, E45A, M600JP, ...",
+        "Img": ["/Electrical components/Contactor/Contactor24.png"]
+      },
+      {
+        "id": "ContactorId17",
+        "type": "Haulotte",
+        "Info": ["Contacteur 12V", "Contacteur"],
+        "Designation": "Utilisé pour HA12CJ(+), HA16SPX, HA18PX, HA260PX, HA32PX, HA41PX, ...",
+        "Img": [
+          "/Electrical components/Contactor/Contactor25.png",
+          "/Electrical components/Contactor/Contactor26.png"
+        ]
+      },
+      {
+        "id": "ContactorId18",
+        "type": "Haulotte",
+        "Info": ["Contacteur 12V", "Contacteur"],
+        "Designation": "Utilisé pour HS15E, HA12IP, HA15IP",
+        "Img": ["/Electrical components/Contactor/Contactor27.png"]
+      },
+      {
+        "id": "ContactorId19",
+        "type": "Haulotte",
+        "Info": ["Contacteur 24V", "Contacteur"],
+        "Designation": "Utilisé pour HS15E, HA12IP, HA15IP",
+        "Img": ["/Electrical components/Contactor/Contactor28.png"]
+      },
+      {
+        "id": "ContactorId20",
+        "type": "Haulotte",
+        "Info": ["Contacteur 48V", "Contacteur"],
+        "Designation": "Utilisé pour HA15I",
+        "Img": ["/Electrical components/Contactor/Contactor29.png"]
+      },
+      {
+        "id": "ContactorId21",
+        "type": "Haulotte",
+        "Info": ["Contacteur 48V", "Contacteur"],
+        "Designation": "Utilisé pour HA15I",
+        "Img": ["/Electrical components/Contactor/Contactor30.png"]
+      },
+      {
+        "id": "ContactorId22",
+        "type": "Haulotte",
+        "Info": ["Contacteur 48V", "Contacteur"],
+        "Designation": "Utilisé pour HA15I",
+        "Img": ["/Electrical components/Contactor/Contactor31.png"]
+      },
+      {
+        "id": "ContactorId23",
+        "type": "Haulotte",
+        "Info": ["Contacteur 48V", "Contacteur"],
+        "Designation": "Utilisé pour HA15I",
+        "Img": ["/Electrical components/Contactor/Contactor32.png"]
+      },
+      {
+        "id": "ContactorId24",
+        "type": "Haulotte",
+        "Info": ["Contacteur 12V", "Contacteur"],
+        "Designation": "Utilisé pour SJ7135, SJ8831RT, SJ8841RT, ...",
+        "Img": [
+          "/Electrical components/Contactor/Contactor33.png",
+          "/Electrical components/Contactor/Contactor34.png"
+        ]
+      },
+      {
+        "id": "ContactorId25",
+        "type": "Genie",
+        "Info": ["Contacteur 24V", "Contacteur"],
+        "Designation": "Utilisé pour SJII3220, SJII6826, SJII4832, ...",
+        "Img": [
+          "/Electrical components/Contactor/Contactor35.png",
+          "/Electrical components/Contactor/Contactor36.png"
+        ]
+      }
+    ]
+  },
+  "Wheels,tires": {
+    "Roues": [
+      {
+        "id": "WheelsId1",
+        "type": "Genie",
+        "Info": ["Non-Marking", "wheel ‘front’", "Type 22x7x17 3/4"],
+        "Designation": "Utilisé pour Z30-20N, Z34-22N",
+        "Img": ["/Wheels,tires/Wheel1.png"]
+      },
+      {
+        "id": "WheelsId2",
+        "type": "Genie",
+        "Info": ["Non-Marking", "wheel ‘rear’", "Type 22x7x17 3/4"],
+        "Designation": "Utilisé pour Z30-20N, Z34-22N",
+        "Img": ["/Wheels,tires/Wheel2.png"]
+      },
+      {
+        "id": "WheelsId3",
+        "type": "Genie",
+        "Info": ["2 non-marking wheels", "‘front’ / ’rear’"],
+        "Designation": "Utilisé pour Z30-20N, Z34-22N",
+        "Img": ["/Wheels,tires/Wheel3.png"]
+      },
+      {
+        "id": "WheelsId4",
+        "type": "Genie",
+        "Info": ["Set of 4 non-marking wheels", "2x front + 2x rear"],
+        "Designation": "Utilisé pour Z30-20N, Z34-22N",
+        "Img": ["/Wheels,tires/Wheel4.png"]
+      },
+      {
+        "id": "WheelsId5",
+        "type": "Genie",
+        "Info": ["Non-Marking", "wheel ‘front’", "Type 22x7x17 3/4"],
+        "Designation": "Utilisé pour Z30-20N, Z34-22N",
+        "Img": ["/Wheels,tires/Wheel5-1.png"]
+      },
+      {
+        "id": "WheelsId6",
+        "type": "Genie",
+        "Info": ["Non-Marking", "wheel ‘rear’", "Type 22x7x17 3/4"],
+        "Designation": "Utilisé pour Z30-20N, Z34-22N",
+        "Img": ["/Wheels,tires/Wheel5-2.png"]
+      },
+      {
+        "id": "WheelsId7",
+        "type": "Genie",
+        "Info": ["2 non-marking wheels", "‘front’ / ‘rear’"],
+        "Designation": "Utilisé pour Z30-20N, Z34-22N",
+        "Img": ["/Wheels,tires/Wheel6.png"]
+      },
+      {
+        "id": "WheelsId8",
+        "type": "Genie",
+        "Info": ["Set of 4 non-marking wheels", "2x front + 2x rear"],
+        "Designation": "Utilisé pour Z30-20N, Z34-22N",
+        "Img": ["/Wheels,tires/Wheel7.png"]
+      },
+      {
+        "id": "WheelsId9",
+        "type": "Genie",
+        "Info": ["Non-Marking", "Type 10x3"],
+        "Designation": "Utilisé pour GR-12, GR-15, GR-20, ...",
+        "Img": ["/Wheels,tires/Wheel9.png"]
+      },
+      {
+        "id": "WheelsId10",
+        "type": "Genie",
+        "Info": ["Non-Marking", "Type 12x4.5"],
+        "Designation": "Utilisé pour GS1530, GS1532,GS1930, GS1932",
+        "Img": ["/Wheels,tires/Wheel10.png"]
+      },
+      {
+        "id": "WheelsId11",
+        "type": "Genie",
+        "Info": ["Non-Marking", "Type 15x5"],
+        "Designation": "Utilisé pour GS2032, GS2646, GS2632,GS3232, GS4047",
+        "Img": ["/Wheels,tires/Wheel11-1.png"]
+      },
+      {
+        "id": "WheelsId12",
+        "type": "Genie",
+        "Info": ["Non-Marking", "Type 15x5"],
+        "Designation": "Utilisé pour GS2032, GS2646, GS2632,GS3232, GS4047",
+        "Img": ["/Wheels,tires/Wheel11-2.png"]
+      },
+      {
+        "id": "WheelsId13",
+        "type": "Genie",
+        "Info": [],
+        "Designation": "Utilisé pour Z60-370C, Z62-40RT, S65XC, ...",
+        "Img": ["/Wheels,tires/Wheel12.png"]
+      },
+      {
+        "id": "WheelsId14",
+        "type": "Genie",
+        "Info": ["Non-Marking "],
+        "Designation": "Utilisé pour Z60-370C, Z62-40RT, S65XC, ...",
+        "Img": ["/Wheels,tires/Wheel13.png"]
+      },
+      {
+        "id": "WheelsId15",
+        "type": "Genie",
+        "Info": ["Non-Marking "],
+        "Designation": "Utilisé pour Z40-23N, Z40-23NRJ",
+        "Img": ["/Wheels,tires/Wheel14.png"]
+      },
+      {
+        "id": "WheelsId16",
+        "type": "Genie",
+        "Info": ["Non-Marking tire", "RIM, foamed, 8*8"],
+        "Designation": "Utilisé pour Z45-25DC, Z45-25JDC,Z45-25JBI, ...",
+        "Img": ["/Wheels,tires/Wheel15.png"]
+      },
+      {
+        "id": "WheelsId17",
+        "type": "Genie",
+        "Info": ["Non-Marking tire", "foamed, 9LG", "steer, front"],
+        "Designation": "Utilisé pour Z45-25DC, Z45-25JDC,Z45-25JBI, ...",
+        "Img": ["/Wheels,tires/Wheel16.png"]
+      },
+      {
+        "id": "WheelsId18",
+        "type": "Genie",
+        "Info": ["Non-Marking tire", "foamed, 9LG", "non-steer, rear"],
+        "Designation": "Utilisé pour Z45-25DC, Z45-25JDC,Z45-25JBI, ...",
+        "Img": ["/Wheels,tires/Wheel17.png"]
+      },
+      {
+        "id": "WheelsId19",
+        "type": "Haulotte",
+        "Info": ["Non-Marking ", "steer"],
+        "Designation": "Utilisé pour HA12IP, HA15IP",
+        "Img": ["/Wheels,tires/Wheel18.png"]
+      },
+      {
+        "id": "WheelsId20",
+        "type": "Haulotte",
+        "Info": ["Non-Marking ", "NON-steer"],
+        "Designation": "Utilisé pour HA12IP, HA15IP",
+        "Img": ["/Wheels,tires/Wheel19.png"]
+      },
+      {
+        "id": "WheelsId21",
+        "type": "Haulotte",
+        "Info": ["Non-Marking ", "Type 16x5x10 1/2"],
+        "Designation": "Utilisé pour HM10P, STAR 10",
+        "Img": ["/Wheels,tires/Wheel20.png"]
+      },
+      {
+        "id": "WheelsId22",
+        "type": "Haulotte",
+        "Info": ["Non-Marking ", "Type 15x5"],
+        "Designation": "Utilisé pour Compact-series",
+        "Img": ["/Wheels,tires/Wheel21.png"]
+      },
+      {
+        "id": "WheelsId23",
+        "type": "Haulotte",
+        "Info": ["Non-Marking ", "Type 12.5x4.25"],
+        "Designation": "Utilisé pour Optimum-series",
+        "Img": ["/Wheels,tires/Wheel22.png"]
+      },
+      {
+        "id": "WheelsId24",
+        "type": "Haulotte",
+        "Info": ["Non-Marking "],
+        "Designation": "Utilisé pour Star6 AC, Optimum 8 AC",
+        "Img": ["/Wheels,tires/Wheel23.png"]
+      },
+      {
+        "id": "WheelsId25",
+        "type": "JLG",
+        "Info": ["Non-Marking ", "Type 400x8"],
+        "Designation": "Utilisé pour Toucan 800, 861, 870",
+        "Img": ["/Wheels,tires/Wheel24.png"]
+      },
+      {
+        "id": "WheelsId26",
+        "type": "JLG",
+        "Info": ["Non-Marking ", "Type 323x100"],
+        "Designation": "Utilisé pour 1230ES, 1930ES",
+        "Img": ["/Wheels,tires/Wheel25.png"]
+      },
+      {
+        "id": "WheelsId27",
+        "type": "JLG",
+        "Info": ["Non-Marking ", "Type 406x125"],
+        "Designation": "Utilisé pour 2030ES, 2630ES,2646ES, 3246ES",
+        "Img": ["/Wheels,tires/Wheel26.png"]
+      },
+      {
+        "id": "WheelsId28",
+        "type": "JLG",
+        "Info": ["Non-Marking ", "Type 25x7-12"],
+        "Designation": "Utilisé pour E300AJP, M400AJP,E450AJ, M45A, ..",
+        "Img": ["/Wheels,tires/Wheel27.png"]
+      },
+      {
+        "id": "WheelsId29",
+        "type": "JLG",
+        "Info": ["Non-Marking ", "Type 22x6x17.75"],
+        "Designation": "Utilisé pour E300AJP, M400AJP,E450AJ, M45A, ..",
+        "Img": ["/Wheels,tires/Wheel28.png"]
+      },
+      {
+        "id": "WheelsId30",
+        "type": "JLG",
+        "Info": ["Non-Marking "],
+        "Designation": "Utilisé pour E300A(J), E300AJP",
+        "Img": ["/Wheels,tires/Wheel29.png"]
+      },
+      {
+        "id": "WheelsId32",
+        "type": "JLG",
+        "Info": ["Non-Marking "],
+        "Designation": "Utilisé pour 10RS, 3248RS, ...",
+        "Img": ["/Wheels,tires/Wheel30.png"]
+      },
+      {
+        "id": "WheelsId33",
+        "type": "JLG",
+        "Info": ["Non-Marking "],
+        "Designation": "Utilisé pour 10RS, 3248RS, ...",
+        "Img": ["/Wheels,tires/Wheel31.png"]
+      },
+      {
+        "id": "WheelsId34",
+        "type": "JLG",
+        "Info": ["Non-Marking "],
+        "Designation": "Utilisé pour RS, 1932RS, ...",
+        "Img": ["/Wheels,tires/Wheel32.png"]
+      },
+      {
+        "id": "WheelsId35",
+        "type": "JLG",
+        "Info": ["Non-Marking ", "RIM, foamed, RH"],
+        "Designation": "Utilisé pour E600J, M600JP, ...",
+        "Img": ["/Wheels,tires/Wheel33.png"]
+      },
+      {
+        "id": "WheelsId36",
+        "type": "JLG",
+        "Info": ["Non-Marking ", "RIM, foamed, LH"],
+        "Designation": "Utilisé pour E600J, M600JP, ...",
+        "Img": ["/Wheels,tires/Wheel34.png"]
+      },
+      {
+        "id": "WheelsId37",
+        "type": "JLG",
+        "Info": ["Non-Marking ", "foamed", "Type 240-55 D17.5 Lightning"],
+        "Designation": "Utilisé pour E450AJ, M450AJ,3369LE, M4069, ...",
+        "Img": ["/Wheels,tires/Wheel35.png"]
+      },
+      {
+        "id": "WheelsId38",
+        "type": "Skyjack",
+        "Info": ["Non-Marking ", "wheel ‘front’ (no brake)", "Type 200x8"],
+        "Designation": "Utilisé pour SJIII3215, SJIII3219",
+        "Img": ["/Wheels,tires/Wheel36.png"]
+      },
+      {
+        "id": "WheelsId39",
+        "type": "Skyjack",
+        "Info": ["Non-Marking ", "wheel ‘rear’ (with brake)", "Type 200x8"],
+        "Designation": "Utilisé pour SJIII3215, SJIII3219",
+        "Img": ["/Wheels,tires/Wheel37.png"]
+      },
+      {
+        "id": "WheelsId40",
+        "type": "Skyjack",
+        "Info": ["Non-Marking ", "wheel ‘front’ (no brake)", "Type 200x8"],
+        "Designation": "Utilisé pour SJ12, SJ16, SJIII3215,SJIII3219",
+        "Img": ["/Wheels,tires/Wheel38.png"]
+      },
+      {
+        "id": "WheelsId41",
+        "type": "Skyjack",
+        "Info": ["Non-Marking ", "wheel ‘rear’ (with brake)", "Type 200x8"],
+        "Designation": "Utilisé pour SJIII3215, SJIII3219",
+        "Img": ["/Wheels,tires/Wheel39.png"]
+      },
+      {
+        "id": "WheelsId42",
+        "type": "Skyjack",
+        "Info": ["Non-Marking ", "wheel ‘front’ (no brake)", "Type 200x8"],
+        "Designation": "Utilisé pour SJ12, SJ16, SJIII3215,SJIII3219",
+        "Img": ["/Wheels,tires/Wheel40.png"]
+      },
+      {
+        "id": "WheelsId43",
+        "type": "Skyjack",
+        "Info": ["Non-Marking ", "wheel ‘rear’ (with brake)", "Type 200x8"],
+        "Designation": "Utilisé pour SJIII3215, SJIII3219",
+        "Img": ["/Wheels,tires/Wheel41.png"]
+      },
+      {
+        "id": "WheelsId44",
+        "type": "Skyjack",
+        "Info": ["Set of 4 Non-Marking wheels"],
+        "Designation": "Utilisé pour SJ12, SJ16,SJIII3215, SJIII3219",
+        "Img": ["/Wheels,tires/Wheel42.png"]
+      },
+      {
+        "id": "WheelsId45",
+        "type": "Skyjack",
+        "Info": ["Set of 4 Non-Marking wheels"],
+        "Designation": "Utilisé pour SJ12, SJ16,SJIII3215, SJIII3219",
+        "Img": ["/Wheels,tires/Wheel43.png"]
+      },
+      {
+        "id": "WheelsId46",
+        "type": "Skyjack",
+        "Info": ["Non-Marking ", "wheel ‘front’ (no brake)", "Type 16x5x12"],
+        "Designation": "Utilisé pour SJIII3220, SJIII4632, ...",
+        "Img": ["/Wheels,tires/Wheel44.png"]
+      },
+      {
+        "id": "WheelsId47",
+        "type": "Skyjack",
+        "Info": ["Non-Marking ", "wheel ‘rear’ (with brake)", "Type 16x5x12"],
+        "Designation": "Utilisé pour SJIII3220, SJIII4632, ...",
+        "Img": ["/Wheels,tires/Wheel45.png"]
+      },
+      {
+        "id": "WheelsId48",
+        "type": "Skyjack",
+        "Info": ["Non-Marking ", "wheel ‘front’ (no brake)", "Type 16x5x12"],
+        "Designation": "Utilisé pour SJIII3220, SJIII3226,SJIII4626, SJIII4632",
+        "Img": ["/Wheels,tires/Wheel46.png"]
+      },
+      {
+        "id": "WheelsId49",
+        "type": "Skyjack",
+        "Info": ["Non-Marking ", "wheel ‘rear’ (with brake)", "Type 16x5x12"],
+        "Designation": "Utilisé pour SJIII3220, SJIII3226, SJIII4626, SJIII4632",
+        "Img": ["/Wheels,tires/Wheel47.png"]
+      },
+      {
+        "id": "WheelsId50",
+        "type": "Upright",
+        "Info": ["Non-Marking ", "wheel ‘front-drive’", "Type 305x100x255"],
+        "Designation": "Utilisé pour MX19",
+        "Img": ["/Wheels,tires/Wheel48.png"]
+      },
+      {
+        "id": "WheelsId51",
+        "type": "Upright",
+        "Info": ["Non-Marking ", "wheel ‘rear-idle’", "Type 305x100x255"],
+        "Designation": "Utilisé pour MX19",
+        "Img": ["/Wheels,tires/Wheel49.png"]
+      },
+      {
+        "id": "WheelsId52",
+        "type": "Upright",
+        "Info": ["Non-Marking ", "Type 15x5"],
+        "Designation": "Utilisé pour X26, X32, X26N, X32N",
+        "Img": ["/Wheels,tires/Wheel50.png"]
+      },
+      {
+        "id": "WheelsId53",
+        "type": "Upright",
+        "Info": ["Non-Marking ", "Type 15x5"],
+        "Designation": "Utilisé pour SL20, X26N, X32N, ...",
+        "Img": ["/Wheels,tires/Wheel51.png"]
+      },
+      {
+        "id": "WheelsId54",
+        "type": "Upright",
+        "Info": ["Non-Marking ", "wheel ‘front-drive’", "Type 305x76x254"],
+        "Designation": "Utilisé pour TM12",
+        "Img": ["/Wheels,tires/Wheel52.png"]
+      },
+      {
+        "id": "WheelsId55",
+        "type": "Upright",
+        "Info": ["Non-Marking ", "wheel ‘rear-idle’", "Type 305x76x254"],
+        "Designation": "Utilisé pour TM12",
+        "Img": ["/Wheels,tires/Wheel53.png"]
+      },
+      {
+        "id": "WheelsId56",
+        "type": "Upright",
+        "Info": ["Non-Marking"],
+        "Designation": "Utilisé pour S1930E, S1932E",
+        "Img": ["/Wheels,tires/Wheel54.png"]
+      },
+      {
+        "id": "WheelsId57",
+        "type": "Upright",
+        "Info": ["Non-Marking foamed"],
+        "Designation": "Utilisé pour HR12NE, HR12NDE, ...",
+        "Img": ["/Wheels,tires/Wheel55.png"]
+      },
+      {
+        "id": "WheelsId58",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour S80, S85, S105",
+        "Img": ["/Wheels,tires/Wheel56-1.png", "/Wheels,tires/Wheel56-2.png"]
+      },
+      {
+        "id": "WheelsId59",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour S60, S65",
+        "Img": ["/Wheels,tires/Wheel57-1.png", "/Wheels,tires/Wheel57-2.png"]
+      },
+      {
+        "id": "WheelsId60",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "RH & LH"],
+        "Designation": "Utilisé pour Z60-34RT, S60, S65",
+        "Img": ["/Wheels,tires/Wheel58-1.png", "/Wheels,tires/Wheel58-2.png"]
+      },
+      {
+        "id": "WheelsId61",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "RH & LH"],
+        "Designation": "Utilisé pour Z60-34RT",
+        "Img": ["/Wheels,tires/Wheel59-1.png", "/Wheels,tires/Wheel59-2.png"]
+      },
+      {
+        "id": "WheelsId62",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "RH & LH"],
+        "Designation": "Utilisé pour Z60-34RT, S60, S65",
+        "Img": ["/Wheels,tires/Wheel60-1.png", "/Wheels,tires/Wheel60-2.png"]
+      },
+      {
+        "id": "WheelsId63",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "RH & LH"],
+        "Designation": "Utilisé pour Z60-34RT",
+        "Img": ["/Wheels,tires/Wheel61-1.png", "/Wheels,tires/Wheel61-2.png"]
+      },
+      {
+        "id": "WheelsId64",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "RH & LH"],
+        "Designation": "Utilisé pour Z60-34RT, S60, S65",
+        "Img": ["/Wheels,tires/Wheel62-1.png", "/Wheels,tires/Wheel62-2.png"]
+      },
+      {
+        "id": "WheelsId65",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "RH & LH"],
+        "Designation": "Utilisé pour Z80-60RT",
+        "Img": ["/Wheels,tires/Wheel63-1.png", "/Wheels,tires/Wheel63-2.png"]
+      },
+      {
+        "id": "WheelsId66",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "RR/LF & LR/RF"],
+        "Designation": "Utilisé pour Z45-25JRT, Z51-30JRT",
+        "Img": ["/Wheels,tires/Wheel64-1.png", "/Wheels,tires/Wheel64-2.png"]
+      },
+      {
+        "id": "WheelsId67",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour Z135-70RT, S120, S125",
+        "Img": ["/Wheels,tires/Wheel65-1.png", "/Wheels,tires/Wheel65-2.png"]
+      },
+      {
+        "id": "WheelsId68",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour S80XC, S85, S85XC, ...",
+        "Img": ["/Wheels,tires/Wheel66-1.png", "/Wheels,tires/Wheel66-2.png"]
+      },
+      {
+        "id": "WheelsId69",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "RH & LH"],
+        "Designation": "Utilisé pour GS3384RT, Z34-22RT",
+        "Img": ["/Wheels,tires/Wheel67-1.png", "/Wheels,tires/Wheel67-2.png"]
+      },
+      {
+        "id": "WheelsId70",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "LF-LR & RF-RR"],
+        "Designation": "Utilisé pour Z135-70RT, S125",
+        "Img": ["/Wheels,tires/Wheel68-1.png", "/Wheels,tires/Wheel68-2.png"]
+      },
+      {
+        "id": "WheelsId71",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour Z45-25JRT, Z45XC, Z51-30JRT, ...",
+        "Img": ["/Wheels,tires/Wheel69-1.png", "/Wheels,tires/Wheel69-2.png"]
+      },
+      {
+        "id": "WheelsId72",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour GS3390RT, GS4390RT, GS5390RT",
+        "Img": ["/Wheels,tires/Wheel70-1.png", "/Wheels,tires/Wheel70-2.png"]
+      },
+      {
+        "id": "WheelsId73",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour 3369RT, GS2669RT, 4069RT, ...",
+        "Img": ["/Wheels,tires/Wheel71-1.png", "/Wheels,tires/Wheel71-2.png"]
+      },
+      {
+        "id": "WheelsId74",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour GS2669RT, GS3369RT, GS4069RT, ...",
+        "Img": ["/Wheels,tires/Wheel72-1.png", "/Wheels,tires/Wheel72-2.png"]
+      },
+      {
+        "id": "WheelsId75",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour GS3390RT, GS4390RT, GS5390RT",
+        "Img": ["/Wheels,tires/Wheel73-1.png", "/Wheels,tires/Wheel73-2.png"]
+      },
+      {
+        "id": "WheelsId76",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour S40, S45",
+        "Img": ["/Wheels,tires/Wheel74-1.png", "/Wheels,tires/Wheel74-2.png"]
+      },
+      {
+        "id": "WheelsId77",
+        "type": "Genie",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour SX135XC",
+        "Img": ["/Wheels,tires/Wheel75-1.png", "/Wheels,tires/Wheel75-2.png"]
+      },
+      {
+        "id": "WheelsId78",
+        "type": "JLG",
+        "Info": ["Terrain, rim+foam", "RH & LH"],
+        "Designation": "Utilisé pour 25RTS, 40RTS, 500RTS, ...",
+        "Img": ["/Wheels,tires/Wheel76-1.png", "/Wheels,tires/Wheel76-2.png"]
+      },
+      {
+        "id": "WheelsId79",
+        "type": "JLG",
+        "Info": ["Terrain, rim+foam", "RH & LH"],
+        "Designation": "Utilisé pour 3394RT, 4394RT, 450AJ seriesII, 510AJ",
+        "Img": ["/Wheels,tires/Wheel77-1.png", "/Wheels,tires/Wheel77-2.png"]
+      },
+      {
+        "id": "WheelsId80",
+        "type": "JLG",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour 800AJ",
+        "Img": ["/Wheels,tires/Wheel78-1.png", "/Wheels,tires/Wheel78-2.png"]
+      },
+      {
+        "id": "WheelsId81",
+        "type": "JLG",
+        "Info": ["Terrain, rim+foam", "RH & LH"],
+        "Designation": "Utilisé pour 800AJ, 860SJ",
+        "Img": ["/Wheels,tires/Wheel79-1.png", "/Wheels,tires/Wheel79-2.png"]
+      },
+      {
+        "id": "WheelsId82",
+        "type": "JLG",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour 800AJ, 860SJ",
+        "Img": ["/Wheels,tires/Wheel80-1.png", "/Wheels,tires/Wheel80-2.png"]
+      },
+      {
+        "id": "WheelsId83",
+        "type": "JLG",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour 600SJ, 660SJ",
+        "Img": ["/Wheels,tires/Wheel81-1.png", "/Wheels,tires/Wheel81-2.png"]
+      },
+      {
+        "id": "WheelsId84",
+        "type": "Genie",
+        "Info": ["Marking (black), rim+foam", "9LG, Front & Rear"],
+        "Designation": "Utilisé pour Z45-25DC, Z45-25JDC, Z45-25JBI, ...",
+        "Img": ["/Wheels,tires/Wheel82-1.png", "/Wheels,tires/Wheel82-2.png"]
+      },
+      {
+        "id": "WheelsId85",
+        "type": "Haulotte",
+        "Info": ["Terrain, rim+foam", "RH & LH"],
+        "Designation": "Utilisé pour Compact 10DX, Compact 12DX",
+        "Img": ["/Wheels,tires/Wheel83-1.png", "/Wheels,tires/Wheel83-2.png"]
+      },
+      {
+        "id": "WheelsId86",
+        "type": "Haulotte",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour  HA20PX, H23TPX, H25TPX, ...",
+        "Img": ["/Wheels,tires/Wheel84-1.png", "/Wheels,tires/Wheel84-2.png"]
+      },
+      {
+        "id": "WheelsId87",
+        "type": "Haulotte",
+        "Info": ["Terrain, rim+foam", "RH & LH"],
+        "Designation": "Utilisé pour HA32PX, H43TPX, HA41RTJPro, ...",
+        "Img": ["/Wheels,tires/Wheel85-1.png", "/Wheels,tires/Wheel85-2.png"]
+      },
+      {
+        "id": "WheelsId88",
+        "type": "Haulotte",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour H12SX(L), H15SX(L), H18SX(L)",
+        "Img": ["/Wheels,tires/Wheel86-1.png", "/Wheels,tires/Wheel86-2.png"]
+      },
+      {
+        "id": "WheelsId89",
+        "type": "Haulotte",
+        "Info": ["Terrain, rim+foam", "RH & LH"],
+        "Designation": "Utilisé pour HA16SPX, HA18SPX, ...",
+        "Img": ["/Wheels,tires/Wheel87-1.png", "/Wheels,tires/Wheel87-2.png"]
+      },
+      {
+        "id": "WheelsId90",
+        "type": "JLG",
+        "Info": ["Terrain, rim+foam", "RH & LH"],
+        "Designation": "Utilisé pour 1250AJ, 1200SJP, 1350SJP, 1500SJ",
+        "Img": ["/Wheels,tires/Wheel88-1.png", "/Wheels,tires/Wheel88-2.png"]
+      },
+      {
+        "id": "WheelsId91",
+        "type": "JLG",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour 600SJ, 660SJ",
+        "Img": ["/Wheels,tires/Wheel89-1.png", "/Wheels,tires/Wheel89-2.png"]
+      },
+      {
+        "id": "WheelsId92",
+        "type": "JLG",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour 600AJ",
+        "Img": ["/Wheels,tires/Wheel90-1.png", "/Wheels,tires/Wheel90-2.png"]
+      },
+      {
+        "id": "WheelsId93",
+        "type": "JLG",
+        "Info": ["All terrain tire RIM, foam, LH"],
+        "Designation": "Utilisé pour 3512, 4012, 4017PS, ...",
+        "Img": ["/Wheels,tires/Wheel91.png"]
+      },
+      {
+        "id": "WheelsId94",
+        "type": "JLG",
+        "Info": ["Marking tire RIM, foam,", " type 240-55 D17.5"],
+        "Designation": "Utilisé pour E450AJ, 3369LE, M4069, ...",
+        "Img": ["/Wheels,tires/Wheel92.png"]
+      },
+      {
+        "id": "WheelsId95",
+        "type": "Liftlux",
+        "Info": ["Terrain, rim+foam", "LH & RH"],
+        "Designation": "Utilisé pour SL210-25D, SL245-25D",
+        "Img": ["/Wheels,tires/Wheel93-1.png", "/Wheels,tires/Wheel93-2.png"]
+      },
+      {
+        "id": "WheelsId96",
+        "type": "Skyjack",
+        "Info": ["Terrain, rim+foam", "RH & LH"],
+        "Designation": "Utilisé pour SJ9250RT",
+        "Img": ["/Wheels,tires/Wheel94-1.png", "/Wheels,tires/Wheel94-2.png"]
+      }
+    ],
+    "Pneus": [
+      {
+        "id": "tiresId1",
+        "type": "OTR",
+        "Info": ["All terrain tire", "10-16.5 PR10"],
+        "Designation": "Utilisé pour Genie Z34-22RT;Haulotte H18SX(L); Skyjack SJ9250RT, ...",
+        "Img": ["/Wheels,tires/Tire1.png"]
+      },
+      {
+        "id": "tiresId2",
+        "type": "OTR",
+        "Info": ["All terrain tire", "12-16.5 PR12"],
+        "Designation": "Utilisé pour Genie S45;JLG 500RTS, 450AJ, 460SJ, ...",
+        "Img": ["/Wheels,tires/Tire2.png"]
+      },
+      {
+        "id": "tiresId3",
+        "type": "OTR",
+        "Info": ["All terrain tire", "14-17.5 PR14"],
+        "Designation": "Utilisé pour Genie Z45-25JRT;JLG 600AJ; Haulotte HA16SPX, ...",
+        "Img": ["/Wheels,tires/Tire3.png"]
+      },
+      {
+        "id": "tiresId4",
+        "type": "OTR",
+        "Info": ["All terrain tire", "15-19.5 PR16"],
+        "Designation": "Utilisé pour Aichi SP18A; JLG 660SJ, ...",
+        "Img": ["/Wheels,tires/Tire4.png"]
+      },
+      {
+        "id": "tiresId5",
+        "type": "OTR",
+        "Info": ["All terrain tire", "26x12D380 PR8"],
+        "Designation": "Utilisé pour Genie GS3268RT, GS4069RT;JLG 260MRT, ...",
+        "Img": ["/Wheels,tires/Tire5.png"]
+      },
+      {
+        "id": "tiresId6",
+        "type": "OTR",
+        "Info": ["All terrain tire", "33x15.50-16.50 PR14"],
+        "Designation": "Utilisé pour 3394RT, 4394RT, 450AJ, 510AJ",
+        "Img": ["/Wheels,tires/Tire6.png"]
+      },
+      {
+        "id": "tiresId7",
+        "type": "OTR",
+        "Info": ["All terrain tire", "355-55 D625 NHS"],
+        "Designation": "Utilisé pour Genie Z51-30JRT, S65;JLG 600AJ, ...",
+        "Img": ["/Wheels,tires/Tire7.png"]
+      },
+      {
+        "id": "tiresId8",
+        "type": "OTR",
+        "Info": ["All terrain tire", "15-625 PR16"],
+        "Designation": "Utilisé pour 800A, 800AJ, 800S, 860SJ",
+        "Img": ["/Wheels,tires/Tire8.png"]
+      },
+      {
+        "id": "tiresId9",
+        "type": "OTR",
+        "Info": ["All terrain tire", "18-625 PR16"],
+        "Designation": "Utilisé pour Genie S80, S85;JLG 800S, 860SJ, ...",
+        "Img": ["/Wheels,tires/Tire9.png"]
+      },
+      {
+        "id": "tiresId10",
+        "type": "OTR",
+        "Info": ["All terrain tire", "385-65 D19.5 PR16"],
+        "Designation": "Utilisé pour Z60-34RT, S60, S65",
+        "Img": ["/Wheels,tires/Tire10.png"]
+      },
+      {
+        "id": "tiresId11",
+        "type": "OTR",
+        "Info": ["All terrain tire", "385-65 D22.5 PR16"],
+        "Designation": "Utilisé pour Genie S80, S85, ...",
+        "Img": ["/Wheels,tires/Tire11.png"]
+      },
+      {
+        "id": "tiresId12",
+        "type": "OTR",
+        "Info": ["All terrain tire", "385-65 D22.5 PR16"],
+        "Designation": "Utilisé pour Genie S80, S85, ...",
+        "Img": ["/Wheels,tires/Tire11.png"]
+      },
+      {
+        "id": "tiresId13",
+        "type": "OTR",
+        "Info": ["All terrain tire", "445-55 D19.5 PR16"],
+        "Designation": "Utilisé pour 800A, 800AJ",
+        "Img": ["/Wheels,tires/Tire12.png"]
+      },
+      {
+        "id": "tiresId14",
+        "type": "OTR",
+        "Info": ["All terrain tire", "445-55 D22.5 PR18"],
+        "Designation": "Utilisé pour HA32PX, HA41PX, H43TPX",
+        "Img": ["/Wheels,tires/Tire13.png"]
+      },
+      {
+        "id": "tiresId15",
+        "type": "OTR",
+        "Info": ["All terrain tire", "445D50-710 PR18"],
+        "Designation": "Utilisé pour Z80-60RT, SX150, ...",
+        "Img": ["/Wheels,tires/Tire14.png"]
+      },
+      {
+        "id": "tiresId16",
+        "type": "OTR",
+        "Info": ["Non-Marking tire", "9-14.5 Wearmaster"],
+        "Designation": "Utilisé pour Z34-22BI, Z45-25JDC, Z45-25JBI, ...",
+        "Img": ["/Wheels,tires/Tire15.png"]
+      },
+      {
+        "id": "tiresId17",
+        "type": "OTR",
+        "Info": ["Non-Marking tire", "10-16.5 PR10"],
+        "Designation": "",
+        "Img": ["/Wheels,tires/Tire16.png"]
+      },
+      {
+        "id": "tiresId18",
+        "type": "OTR",
+        "Info": ["Non-Marking tire", "240-55 D17.5 Lightning"],
+        "Designation": "Utilisé pour M3369, 4069LE,E400AJPn, M450AJ, ...",
+        "Img": ["/Wheels,tires/Tire17.png"]
+      },
+      {
+        "id": "tiresId19",
+        "type": "OTR",
+        "Info": ["Non-Marking tire", "26x12 D380 PR8"],
+        "Designation": "Utilisé pour JLG 260MRT; Genie GS3268RT, GS4069RT, ...",
+        "Img": ["/Wheels,tires/Tire18.png"]
+      },
+      {
+        "id": "tiresId20",
+        "type": "OTR",
+        "Info": ["Non-Marking tire", "36-14LL D22.5 Lightning"],
+        "Designation": "Utilisé pour E600, M600JP...",
+        "Img": ["/Wheels,tires/Tire19.png"]
+      },
+      {
+        "id": "tiresId21",
+        "type": "OTR",
+        "Info": ["Non-Marking tire", "365-55 D625 NHS"],
+        "Designation": "Utilisé pour HR17, HR21",
+        "Img": ["/Wheels,tires/Tire20.png"]
+      }
+    ]
+  },
+  "Nacelle": {
+    "Ciseaux": {
+      "electrique": [
+        {
+          "id": "ciseau1",
+          "type": "JLG",
+          "Info": ["ES1330L", "5.80m", "227kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/ciseaux/electrique/ciseaux1.png"]
+        },
+        {
+          "id": "ciseau2",
+          "type": "JLG",
+          "Info": ["ES1530L", "6.50m", "227kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/ciseaux/electrique/ciseaux2.png"]
+        },
+        {
+          "id": "ciseau3",
+          "type": "JLG",
+          "Info": ["ES1932", "7.80m", "230kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/ciseaux/electrique/ciseaux3.png"]
+        },
+        {
+          "id": "ciseau4",
+          "type": "JLG",
+          "Info": ["ES2632", "9.75m", "230kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/ciseaux/electrique/ciseaux4.png"]
+        },
+        {
+          "id": "ciseau5",
+          "type": "JLG",
+          "Info": ["ES3246", "11.58m", "230kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/ciseaux/electrique/ciseaux4.png"]
+        },
+        {
+          "id": "ciseau6",
+          "Info": ["ERT2669", "10m", "680kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/ciseaux/electrique/ciseaux5.png"]
+        },
+        {
+          "id": "ciseau6",
+          "Info": ["ERT3369", "12m", "453kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/ciseaux/electrique/ciseaux6.png"]
+        },
+        {
+          "id": "ciseau7",
+          "Info": ["ERT4069", "14.30m", "363kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/ciseaux/electrique/ciseaux6.png"]
+        },
+        {
+          "id": "ciseau7",
+          "Info": ["ERT4769", "16.30m", "363kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/ciseaux/electrique/ciseaux7.png"]
+        },
+        {
+          "id": "ciseau8",
+          "Info": ["ERT4769", "16.30m", "363kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/ciseaux/electrique/ciseaux7.png"]
+        },
+        {
+          "id": "ciseau9",
+          "Info": ["AE1932", "7.62m", "275kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/ciseaux/electrique/ciseaux9.png"]
+        },
+        {
+          "id": "ciseau10",
+          "Info": ["R1932", "7.80m", "230kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/ciseaux/electrique/ciseaux10.png"]
+        },
+        {
+          "id": "ciseau11",
+          "Info": ["R2632", "9.6m", "229.97kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/ciseaux/electrique/ciseaux11.png"]
+        },
+        {
+          "id": "ciseau12",
+          "Info": ["R3246", "11.58m", "319.78kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/ciseaux/electrique/ciseaux12.png"]
+        }
+      ],
+      "diesel": [
+        {
+          "id": "ciseau1",
+          "type": "JLG",
+          "Info": ["RT3394", "12m", "909kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/ciseaux/Diesel/ciseaux1.png"]
+        },
+        {
+          "id": "ciseau2",
+          "type": "JLG",
+          "Info": ["RT4394", "15.11m", "568kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/ciseaux/Diesel/ciseaux2.png"]
+        },
+        {
+          "id": "ciseau3",
+          "type": "JLG",
+          "Info": ["RT5394", "18.15m", "680kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/ciseaux/Diesel/ciseaux3.png"]
+        }
+      ]
+    },
+    "Articulees": {
+      "diesel": [
+        {
+          "id": "articuler1",
+          "type": "JLG",
+          "Info": ["340J", "10.31m", "226.80kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/articuler/Diesel/articuler1.jpg"]
+        },
+        {
+          "id": "articuler2",
+          "type": "JLG",
+          "Info": ["450J", "13.72m", "249.48kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/articuler/Diesel/articuler2.jpg"]
+        },
+        {
+          "id": "articuler3",
+          "type": "JLG",
+          "Info": ["600AJHC3", "18.29m", "453.59kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/articuler/Diesel/articuler3.jpg"]
+        },
+        {
+          "id": "articuler4",
+          "type": "JLG",
+          "Info": ["600AJ", "18.47m", "226.80kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/articuler/Diesel/articuler4.jpg"]
+        },
+        {
+          "id": "articuler5",
+          "type": "JLG",
+          "Info": ["600AJN ÉTROIT", "18.47m", "226.80kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/articuler/Diesel/articuler4.jpg"]
+        },
+        {
+          "id": "articuler6",
+          "type": "JLG",
+          "Info": ["800AJ", "24.38m", "226.80kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/articuler/Diesel/articuler5.jpg"]
+        },
+        {
+          "id": "articuler7",
+          "type": "JLG",
+          "Info": ["800AJHC3", "24.5m", "453.59kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/articuler/Diesel/articuler6.jpg"]
+        },
+        {
+          "id": "articuler8",
+          "type": "JLG",
+          "Info": ["1250AJP", "38.1m", "453.59kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/articuler/Diesel/articuler7.jpg"]
+        },
+        {
+          "id": "articuler9",
+          "type": "JLG",
+          "Info": ["1500AJP", "45.72m", "453.59kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/articuler/Diesel/articuler8.jpg"]
+        }
+      ],
+      "electrique": [
+        {
+          "id": "articuler1",
+          "type": "JLG",
+          "Info": ["E300AJP", "10.97m", "230kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/articuler/electrique/articuler1.jpg"]
+        },
+        {
+          "id": "articuler2",
+          "type": "JLG",
+          "Info": ["E300AJ", "11.19m", "230kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/articuler/electrique/articuler2.jpg"]
+        }
+      ]
+    },
+    "telescopiques": {
+      "diesel": [
+        {
+          "id": "telescopique1",
+          "type": "JLG",
+          "Info": ["400S", "12.19m", "453.59kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/Telescopiques/Diesel/telescopique1.jpg"]
+        },
+        {
+          "id": "telescopique2",
+          "type": "JLG",
+          "Info": ["600S", "20.19m", "455kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/Telescopiques/Diesel/telescopique2.jpg"]
+        },
+        {
+          "id": "telescopique3",
+          "type": "JLG",
+          "Info": ["800S", "26.38m", "453kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/Telescopiques/Diesel/telescopique3.png"]
+        },
+        {
+          "id": "telescopique4",
+          "type": "JLG",
+          "Info": ["1350SJP", "41.30m", "450kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/Telescopiques/Diesel/telescopique4.png"]
+        }
+      ],
+      "electrique": [
+        {
+          "id": "telescopique1",
+          "type": "JLG",
+          "Info": ["E600J", "20.36m", "230kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/Telescopiques/electrique/telescopique1.png"]
+        },
+        {
+          "id": "telescopique2",
+          "type": "JLG",
+          "Info": ["M600J", "20.36m", "230kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/Telescopiques/electrique/telescopique2.png"]
+        },
+        {
+          "id": "telescopique3",
+          "type": "JLG",
+          "Info": ["M600J", "20.39m", "230kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/Telescopiques/electrique/telescopique3.jpg"]
+        }
+      ]
+    },
+    "Vertical": {
+      "electrique": [
+        {
+          "id": "MatVertivat1",
+          "type": "JLG",
+          "Info": ["Toucan T8E", "8.20m", "200kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/MatVertical/MatVertivat1.jpg"]
+        },
+        {
+          "id": "MatVertivat2",
+          "type": "JLG",
+          "Info": ["Toucan T8E-L", "8.20m", "200kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/MatVertical/MatVertivat2.png"]
+        },
+        {
+          "id": "MatVertivat3",
+          "type": "JLG",
+          "Info": ["Toucan T10E", "10.10m", "200kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/MatVertical/MatVertivat3.jpg"]
+        },
+        {
+          "id": "MatVertivat4",
+          "type": "JLG",
+          "Info": ["Toucan T10E-L", "10.10m", "200kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/MatVertical/MatVertivat4.png"]
+        },
+        {
+          "id": "MatVertivat4",
+          "type": "JLG",
+          "Info": ["Toucan T12E", "11.83m", "200kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/MatVertical/MatVertivat5.jpg"]
+        },
+        {
+          "id": "MatVertivat5",
+          "type": "JLG",
+          "Info": ["T12E Plus", "12.65m", "200kg"],
+          "Designation": "",
+          "Img": ["/Nacelle/MatVertical/MatVertivat6.jpg"]
+        }
+      ]
+    }
+  },
+  "Chariot": {
+    "telescopique": [
+      {
+        "id": "telescopique1",
+        "type": "Manitou",
+        "Info": ["10M", "10.00m", "3500 kg"],
+        "Designation": "",
+        "Img": ["/Chariot/telescopiques/telescopique1.png"]
+      },
+      {
+        "id": "telescopique2",
+        "type": "Manitou",
+        "Info": ["12M", "12.00m", "3500 kg"],
+        "Img": ["/Chariot/telescopiques/telescopique2.png"]
+      },
+      {
+        "id": "telescopique3",
+        "type": "Manitou",
+        "Info": ["17M", "17.00m", "4000 kg"],
+        "Img": ["/Chariot/telescopiques/telescopique3.png"]
+      }
+    ],
+    "telescopique rotatif": [
+      {
+        "id": "rotatif1",
+        "type": "Manitou",
+        "Info": ["15M", "15.00m", "4500 kg"],
+        "Designation": "",
+        "Img": ["/Chariot/telescopiqueRotatif/rotatif1.png"]
+      },
+      {
+        "id": "rotatif2",
+        "type": "Manitou",
+        "Info": ["18M", "18.00m", "4500 kg"],
+        "Designation": "",
+        "Img": ["/Chariot/telescopiqueRotatif/rotatif2.png"]
+      },
+      {
+        "id": "rotatif3",
+        "type": "Manitou",
+        "Info": ["20M", "20.00m", "4500 kg"],
+        "Designation": "",
+        "Img": ["/Chariot/telescopiqueRotatif/rotatif3.png"]
+      },
+      {
+        "id": "rotatif4",
+        "type": "Manitou",
+        "Info": ["24M", "24.00m", "4500 kg"],
+        "Designation": "",
+        "Img": ["/Chariot/telescopiqueRotatif/rotatif4.png"]
+      },
+      {
+        "id": "rotatif5",
+        "type": "Manitou",
+        "Info": ["25M", "25.00m", "6000 kg"],
+        "Designation": "",
+        "Img": ["/Chariot/telescopiqueRotatif/rotatif5.png"]
+      },
+      {
+        "id": "rotatif6",
+        "type": "Manitou",
+        "Info": ["34M", "34.70m", "7000 kg"],
+        "Designation": "",
+        "Img": ["/Chariot/telescopiqueRotatif/rotatif6.png"]
+      }
+    ],
+    "elvateur": {
+      "electrique": [
+        {
+          "id": "elevateur1",
+          "Info": [
+            "24V",
+            "Principalement pour utilisation intérieure",
+            "Faible intensité jusqu'à 1500 kg",
+            "Espaces étroits et sols plats"
+          ],
+          "Designation": "",
+          "Img": ["/Chariot/elvateur/electrique/elevateur1.webp"]
+        },
+        {
+          "id": "elevateur2",
+          "Info": [
+            "48V",
+            "Utilisation intérieure et extérieure",
+            "Applications intensives jusqu'à 2000 kg",
+            "Polyvalent et économe en énergie"
+          ],
+          "Designation": "",
+          "Img": ["/Chariot/elvateur/electrique/elevateur2.webp"]
+        },
+        {
+          "id": "elevateur3",
+          "Info": [
+            "80V",
+            "Utilisation intérieure et extérieure",
+            "Applications intensives jusqu'à 5000 kg",
+            "Convient pour les charges multiples"
+          ],
+          "Designation": "",
+          "Img": ["/Chariot/elvateur/electrique/elevateur3.webp"]
+        },
+        {
+          "id": "elevateur4",
+          "Info": [
+            "80V Haut-Tonnage",
+            "Utilisation principalement en extérieure",
+            "Applications intensives jusqu'à 8000 kg",
+            "Charges multiples avec accessoires"
+          ],
+          "Designation": "",
+          "Img": ["/Chariot/elvateur/electrique/elevateur4.webp"]
+        }
+      ],
+      "diesel": [
+        {
+          "id": "elevateur1",
+          "Info": ["Toyota tonero 1800 Tonnes", "7000 mm", "12,5 km/h"],
+          "Designation": "",
+          "Img": ["/Chariot/elvateur/diesel/elevateur1.webp"]
+        },
+        {
+          "id": "elevateur2",
+          "Info": ["Toyota tonero 2000 Tonnes", "7000 mm", "18,0 km/h"],
+          "Designation": "",
+          "Img": ["/Chariot/elvateur/diesel/elevateur2.webp"]
+        },
+        {
+          "id": "elevateur3",
+          "Info": ["Toyota tonero 2500 Tonnes", "7000 mm", "19,5 km/h"],
+          "Designation": "",
+          "Img": ["/Chariot/elvateur/diesel/elevateur3.webp"]
+        },
+        {
+          "id": "elevateur4",
+          "Info": ["Toyota tonero 3000 Tonnes", "7000 mm", "19,0 km/h"],
+          "Designation": "",
+          "Img": ["/Chariot/elvateur/diesel/elevateur4.webp"]
+        },
+        {
+          "id": "elevateur5",
+          "Info": ["Toyota tonero 4500 Tonnes", "6000 mm", "24,0 km/h"],
+          "Designation": "",
+          "Img": ["/Chariot/elvateur/diesel/elevateur5.webp"]
+        },
+        {
+          "id": "elevateur6",
+          "Info": ["Toyota tonero 8000 Tonnes", "6000 mm", "21,0 km/h"],
+          "Designation": "",
+          "Img": ["/Chariot/elvateur/diesel/elevateur6.webp"]
+        }
+      ]
+    }
+  }
+}

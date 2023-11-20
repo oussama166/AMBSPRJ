@@ -1,0 +1,389 @@
+{
+  "Product": {
+    "Batteries_Chargers": {
+      "Battery": [
+        {
+          "type": "US Battery",
+          "Info": [
+            ["ELPT terminal", "Cyclic battery 6V", "115min 75A", "445min 25A"]
+          ],
+          "Designation": "Used for electric scissor lifts: Genie GS1930, Skyjack SJ 3219, JLG 1930ES,l",
+          "Img": ["public/assets/Products/Battery/UsBattery.png"]
+        },
+        {
+          "type": "US Battery",
+          "Info": [
+            ["EUT terminal", "Cyclic battery 6V", "195min 75A", "715min 25A"]
+          ],
+          "Designation": "Used for electric boom lifts: Genie Z34-22N, Haulotte Compact 10, Compact 12,",
+          "Img": ["public/assets/Products/Battery/UsBatteryEUT.png"]
+        },
+        {
+          "type": "US Battery",
+          "Info": [
+            ["EUT terminal", "Cyclic battery 6V", "225min 75A", "865min 25A"]
+          ],
+          "Designation": "Used for electric articulated lifts: Genie Z30-20N, JLG E600AJP,",
+          "Img": ["public/assets/Products/Battery/UsBatteryEUT.png"]
+        },
+        {
+          "type": "Multi",
+          "Info": [["Starter battery", "75AH ... 180AH"]],
+          "Designation": "Used for different types of aerial lifts",
+          "Img": ["public/assets/Products/Battery/StarterBattery.png"]
+        },
+        {
+          "type": "Trojan",
+          "Info": [
+            ["ELPT terminal", "Cyclic battery 6V", "115min 75A", "447min 25A"]
+          ],
+          "Designation": "Used for electric scissor lifts: Genie GS1930, Skyjack SJ 3219, JLG 1930ES",
+          "Img": ["public/assets/Products/Battery/trojanELPT.png"]
+        },
+        {
+          "type": "Trojan",
+          "Info": [
+            ["EUT terminal", "Cyclic battery 6V", "175min 75A", "678min 25A"]
+          ],
+          "Designation": "Used for electric boom lifts: Genie Z34-22N, Haulotte Compact 10, Compact 12",
+          "Img": ["public/assets/Products/Battery/trojanEUT.png"]
+        },
+        {
+          "type": "Trojan",
+          "Info": [
+            ["EUT terminal", "Cyclic battery 6V", "200min 75A", "789min 25A"]
+          ],
+          "Designation": "Used for electric articulated lifts: Genie Z30-20N, JLG E600AJP,",
+          "Img": ["public/assets/Products/Battery/trojanEUT.png"]
+        },
+        {
+          "type": "Multi",
+          "Info": [["Traction battery", "DIN,120AH ... 1550Ah"]],
+          "Designation": "Used for different types of aerial lifts",
+          "Img": ["public/assets/Products/Battery/TractionBatteries.png"]
+        }
+      ],
+      "Battery indicator": [
+        {
+          "type": "Genie",
+          "Info": ["Battery-indicator", "12-72V"],
+          "Designation": "Used for Z30-20N, Z34-22DC, Z45-25JDC, ",
+          "Img": [
+            "public/assets/Products/Battery Charger/BatteryIndicator1.png",
+            "public/assets/Products/Battery Charger/BatteryIndicator1-2.png"
+          ]
+        },
+        {
+          "type": "Genie",
+          "Info": ["Battery-indicator", "48V"],
+          "Designation": "Used for Z30-20N, Z34-22N,Z45-25JDC",
+          "Img": [
+            "public/assets/Products/Battery Charger/BatteryIndicator2.png"
+          ]
+        },
+        {
+          "type": "Genie",
+          "Info": ["Battery-indicator", "12V"],
+          "Designation": "Used for Z34-22RT, Z60-34RT, S45, S65, ...",
+          "Img": [
+            "public/assets/Products/Battery Charger/BatteryIndicator3.png"
+          ]
+        },
+        {
+          "type": "JLG",
+          "Info": ["Battery-indicator", "12-72V"],
+          "Designation": "Used for E40AJP, E45A, E450AJ, E600JP",
+          "Img": [
+            "public/assets/Products/Battery Charger/BatteryIndicator4.png",
+            "public/assets/Products/Battery Charger/BatteryIndicator4-2.png"
+          ]
+        },
+        {
+          "type": "Haulotte",
+          "Info": ["Battery-indicator", "12-72V"],
+          "Designation": "Used for H15SDX, H18SDX, HA16SPX, HA18SPX, ...",
+          "Img": [
+            "public/assets/Products/Battery Charger/BatteryIndicator5.png",
+            "public/assets/Products/Battery Charger/BatteryIndicator5-2.png"
+          ]
+        },
+        {
+          "type": "Haulotte",
+          "Info": ["Battery-indicator"],
+          "Designation": "Used for HA-2440319260 (48V)",
+          "Img": [
+            "public/assets/Products/Battery Charger/BatteryIndicator6.png"
+          ]
+        },
+        {
+          "type": "Haulotte",
+          "Info": ["Battery-indicator"],
+          "Designation": "Used for HA-2901009770 - BC-24V35A70 (24V)",
+          "Img": [
+            "public/assets/Products/Battery Charger/BatteryIndicator7.png"
+          ]
+        },
+        {
+          "type": "Haulotte",
+          "Info": ["Battery-indicator"],
+          "Designation": "Used for Optimum 8, Compact 10, STAR 10, ...",
+          "Img": [
+            "public/assets/Products/Battery Charger/BatteryIndicator8.png"
+          ]
+        },
+        {
+          "type": "Skyjack",
+          "Info": ["Battery-indicator"],
+          "Designation": "Used for SJ3219, SJIII4626, SJIII4632, ...",
+          "Img": [
+            "public/assets/Products/Battery Charger/BatteryIndicator9.png"
+          ]
+        }
+      ],
+      "Battery(Charger) accessories": [
+        {
+          "type": "Genie",
+          "Info": ["Battery charger cable"],
+          "Designation": "Used with GE-105739, ...",
+          "Img": [
+            "public/assets/Products/Battery (charger) accessories/BatteryChargerAccessories1.png",
+            "public/assets/Products/Battery Charger/BatteryChargerAccessories1-2.png"
+          ]
+        },
+        {
+          "type": "Genie",
+          "Info": ["Battery charger cable"],
+          "Designation": "Used with GE-128375, ...",
+          "Img": [
+            "public/assets/Products/Battery (charger) accessories/BatteryChargerAccessories2.png",
+            "public/assets/Products/Battery Charger/BatteryChargerAccessories2-2.png"
+          ]
+        },
+        {
+          "type": "Haulotte",
+          "Info": ["Battery charger cable"],
+          "Designation": "Used with HA-2901009770, ...",
+          "Img": [
+            "public/assets/Products/Battery (charger) accessories/BatteryChargerAccessories3.png",
+            "public/assets/Products/Battery Charger/BatteryChargerAccessories3-2.png"
+          ]
+        },
+        {
+          "type": "JLG",
+          "Info": ["Battery charger cable"],
+          "Designation": "Used with JL-1001128737, ...",
+          "Img": [
+            "public/assets/Products/Battery (charger) accessories/BatteryChargerAccessories4.png",
+            "public/assets/Products/Battery Charger/BatteryChargerAccessories4-2.png"
+          ]
+        },
+        {
+          "type": "JLG",
+          "Info": ["Battery charger cable"],
+          "Designation": "Used with JL-1001123046S, ...",
+          "Img": [
+            "public/assets/Products/Battery (charger) accessories/BatteryChargerAccessories5.png",
+            "public/assets/Products/Battery Charger/BatteryChargerAccessories5-2.png"
+          ]
+        },
+        {
+          "type": "Skyjack",
+          "Info": ["Battery charger cable"],
+          "Designation": "Used with SJ-152070",
+          "Img": [
+            "public/assets/Products/Battery (charger) accessories/BatteryChargerAccessories6.png",
+            "public/assets/Products/Battery Charger/BatteryChargerAccessories6-2.png"
+          ]
+        },
+        {
+          "type": "Haulotte",
+          "Info": ["Battery charger cable", "30cm"],
+          "Designation": "Connector Ø 10mm",
+          "Img": [
+            "public/assets/Products/Battery (charger) accessories/BatteryChargerAccessories7.png"
+          ]
+        },
+        {
+          "type": "",
+          "Info": ["Battery charger cable", "37cm"],
+          "Designation": "Connector Ø 20mm",
+          "Img": [
+            "public/assets/Products/Battery (charger) accessories/BatteryChargerAccessories8.png"
+          ]
+        },
+        {
+          "type": "",
+          "Info": ["Battery terminal clamp cover positive", "universal"],
+          "Designation": "",
+          "Img": [
+            "public/assets/Products/Battery (charger) accessories/BatteryChargerAccessories9.png"
+          ]
+        },
+        {
+          "type": "",
+          "Info": ["Battery terminal clamp cover negative", "universal"],
+          "Designation": "",
+          "Img": [
+            "public/assets/Products/Battery (charger) accessories/BatteryChargerAccessories10.png"
+          ]
+        },
+        {
+          "type": "",
+          "Info": ["Anderson connector", "175A"],
+          "Designation": "",
+          "Img": [
+            "public/assets/Products/Battery (charger) accessories/BatteryChargerAccessories11.png"
+          ]
+        },
+        {
+          "type": "",
+          "Info": ["Anderson connector", "350A"],
+          "Designation": "",
+          "Img": [
+            "public/assets/Products/Battery (charger) accessories/BatteryChargerAccessories12.png"
+          ]
+        },
+        {
+          "type": "",
+          "Info": ["Battery terminal connector clamp positive", "universal"],
+          "Designation": "",
+          "Img": [
+            "public/assets/Products/Battery (charger) accessories/BatteryChargerAccessories13.png"
+          ]
+        },
+        {
+          "type": "",
+          "Info": ["Battery terminal connector clamp negative", "universal"],
+          "Designation": "",
+          "Img": [
+            "public/assets/Products/Battery (charger) accessories/BatteryChargerAccessories14.png"
+          ]
+        },
+        {
+          "type": "",
+          "Info": ["Batteries waterfilling system 24V", "Monoblock basic"],
+          "Designation": "Valve Ø 39.5mm. Used with T105, US305, L16,...",
+          "Img": [
+            "public/assets/Products/Battery (charger) accessories/BatteryChargerAccessories15.png"
+          ]
+        },
+        {
+          "type": "",
+          "Info": ["Batteries waterfilling system 48V", "Monoblock basic"],
+          "Designation": "Valve Ø 39.5mm Used with T105, US305, L16",
+          "Img": [
+            "public/assets/Products/Battery (charger) accessories/BatteryChargerAccessories16.png"
+          ]
+        },
+        {
+          "type": "",
+          "Info": ["Battery-charger, 48VDC, 380V, 80A"],
+          "Designation": "Used for forklifts (Toyota, Linde, ...)",
+          "Img": [
+            "public/assets/Products/Battery (charger) accessories/BatteryChargerAccessories17.png"
+          ]
+        },
+        {
+          "type": "",
+          "Info": ["Battery-charger, 80VDC, 380V, 100A"],
+          "Designation": "Used for forklifts (Toyota, Linde, ...)",
+          "Img": [
+            "public/assets/Products/Battery (charger) accessories/BatteryChargerAccessories18.png"
+          ]
+        }
+      ]
+    },
+    "Electrical components": {
+      "Connector plug": [
+        {
+          "type": "JLG",
+          "Info": ["Connector plug"],
+          "Designation": "Used for 1932E, 2646E, 3369E, 40RTS,...",
+          "Img": [
+            "public/assets/Products/Electrical components/Connector plug/ConnectorPlug1.png"
+          ]
+        },
+        {
+          "type": "JLG",
+          "Info": ["Connector plug"],
+          "Designation": "Used for 1932E, 2646E, 3369E, 40RTS, ...",
+          "Img": [
+            "public/assets/Products/Electrical components/Connector plug/ConnectorPlug2.png"
+          ]
+        },
+        {
+          "type": "JLG",
+          "Info": ["Connector plug"],
+          "Designation": "Used for 3369LE, M4069, 40RTS, 400CRT, ...",
+          "Img": [
+            "public/assets/Products/Electrical components/Connector plug/ConnectorPlug3.png"
+          ]
+        },
+        {
+          "type": "JLG",
+          "Info": ["Connector plug"],
+          "Designation": "Used for 1932E2, 2632E2, 25RTS, 330CRT, 500RTS, ...",
+          "Img": [
+            "public/assets/Products/Electrical components/Connector plug/ConnectorPlug4.png"
+          ]
+        },
+        {
+          "type": "JLG",
+          "Info": ["Connector plug"],
+          "Designation": "Used for 800AJ, 660SJC, 660SJ, ...",
+          "Img": [
+            "public/assets/Products/Electrical components/Connector plug/ConnectorPlug5.png"
+          ]
+        },
+        {
+          "type": "JLG",
+          "Info": ["Connector plug"],
+          "Designation": "Used for 800AJ, 660SJC, 660SJ, ...",
+          "Img": [
+            "public/assets/Products/Electrical components/Connector plug/ConnectorPlug6.png"
+          ]
+        },
+        {
+          "type": "JLG",
+          "Info": ["Connector plug"],
+          "Designation": "Used for 450AJ, 600AJ, 660SJ, ...",
+          "Img": [
+            "public/assets/Products/Electrical components/Connector plug/ConnectorPlug7.png"
+          ]
+        },
+        {
+          "type": "JLG",
+          "Info": ["Connector plug"],
+          "Designation": "Used for 450AJ, 600AJ, 660SJ, ...",
+          "Img": [
+            "public/assets/Products/Electrical components/Connector plug/ConnectorPlug8.png"
+          ]
+        },
+        {
+          "type": "JLG",
+          "Info": ["Connector plug"],
+          "Designation": "Used for E40AJPn, E45A, M45A, ...",
+          "Img": [
+            "public/assets/Products/Electrical components/Connector plug/ConnectorPlug9.png"
+          ]
+        },
+        {
+          "type": "JLG",
+          "Info": ["Connector plug"],
+          "Designation": "Used for 1930ES, 3246ES, E300AJP, M45A, E600J, ...",
+          "Img": [
+            "public/assets/Products/Electrical components/Connector plug/ConnectorPlug10.png"
+          ]
+        },
+        {
+          "type": "JLG",
+          "Info": ["Connector plug"],
+          "Designation": "Used for 740AJ, 800AJ, 660SJ, 1500SJ, ...",
+          "Img": [
+            "public/assets/Products/Electrical components/Connector plug/ConnectorPlug11.png"
+          ]
+        }
+      ]
+    }
+  }
+}
