@@ -1811,21 +1811,21 @@
           "type": "JLG",
           "Info": ["E600J", "20.36m", "230kg"],
           "Designation": "",
-          "Img": ["/Nacelle/Telescopiques/electrique/telescopique1.png"]
+          "Img": ["/Nacelle/Telescopiques/electrique/electrique1.png"]
         },
         {
           "id": "telescopique2",
           "type": "JLG",
           "Info": ["M600J", "20.36m", "230kg"],
           "Designation": "",
-          "Img": ["/Nacelle/Telescopiques/electrique/telescopique2.png"]
+          "Img": ["/Nacelle/Telescopiques/electrique/electrique2.png"]
         },
         {
           "id": "telescopique3",
           "type": "JLG",
           "Info": ["M600J", "20.39m", "230kg"],
           "Designation": "",
-          "Img": ["/Nacelle/Telescopiques/electrique/telescopique3.jpg"]
+          "Img": ["/Nacelle/Telescopiques/electrique/electrique3.jpg"]
         }
       ]
     },
